@@ -1,0 +1,9 @@
+com\mycompany\tpintegrador\Modelo\EstadoIncidente.class
+com\mycompany\tpintegrador\Modelo\Tecnico.class
+com\mycompany\tpintegrador\Modelo\TipoProblema.class
+com\mycompany\tpintegrador\Modelo\Especialidad.class
+com\mycompany\tpintegrador\Modelo\Servicio.class
+com\mycompany\tpintegrador\Modelo\TiempoEstimado.class
+com\mycompany\tpintegrador\Modelo\Cliente.class
+com\mycompany\tpintegrador\Modelo\MedioNotificacion.class
+com\mycompany\tpintegrador\Modelo\Incidente.class
